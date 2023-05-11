@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        while (true){
+        while (true) {
         System.out.println("""
                 1-Telebe elave etmek
                 2-Butun qeydiyyatda olan telebeleri gormek ucun
